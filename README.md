@@ -17,7 +17,7 @@ My Works in which I was only **one** developer or work with another developers:
 ### Rahmet - FinTech pay by QR's
 Rahmet is FinTech Project which give cashback from partners to users. This is open loyalty program.  
 Rahmet keep Top 5 position in Finance Category in Appstore And top 50 in Free app of Kazakhstan.
-Currently I'm Team Lead in Rahmet Project - Near 13 Mobile developers in Project.
+Currently I'm Mobile Team Lead in Rahmet Project - Near 13 Mobile developers in Project.
 Some Links:<be/>
 <a href="https://the-steppe.com/lyudi/kak-prilozhenie-rahmet-app-pomogaet-biznesu-zarabatyvat-bolshe">**The Steppe**<a/><br/>
 <a href="https://m.forbes.kz/article/204696">**Forbes**<a/><br/>
