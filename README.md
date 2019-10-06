@@ -2,7 +2,8 @@
 
 
 <a href="mailto:buza.dima93@gmail.com"><img src="https://img.shields.io/badge/Mail%20To-buza.dima93%40gmail.com-red?style=for-the-badge&logo=minutemailer&logoColor=red"></a>
-<a href="https://www.linkedin.com/in/dmitriy-buzulutskiy-a933a0b5/"><img src="https://img.shields.io/badge/Linkedin-buza.dima93-blue?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/dmitriy-buzulutskiy-a933a0b5/"><img src="https://img.shields.io/badge/Linkedin-buza.dima93-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+<a href="https://t.me/di_diss"><img src="https://img.shields.io/badge/Telegram-@di_diss-blue?style=for-the-badge&logo=telegram&logoColor=blue"></a>
 # This is My Portfolio on GitHub 
 ### About me.
 My name is Dmitriy, I'm from Almaty. I have 7+ years experience in Mobile Development:
@@ -29,7 +30,7 @@ Some Links:
 <p/>
 
 <a href="https://itunes.apple.com/us/app/%D1%80%D0%B0%D1%85%D0%BC%D0%B5%D1%82/id1346543292?l=ru&amp;ls=1&amp;mt=8">
-                    <img width="230" src="https://rahmetapp.kz/static/img/index/appstore.png">
+                    <img width="160" src="https://rahmetapp.kz/static/img/index/appstore.png">
                 </a>
 
 # Thank you for attention!
