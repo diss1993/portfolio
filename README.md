@@ -43,7 +43,7 @@ Application for merchant who can took payments By Rahmet.
 <a href="https://apps.apple.com/us/app/рахмет-бизнес/id1448016280">
 <img width="160" src="https://rahmetapp.kz/static/img/index/appstore.png"></a>
 
-### Chocolife me - The largest coupon service in Kazakhstane
+### Chocolife me - The largest coupon service in Kazakhstan
 Took application from outsource into inHouse development. Full redesign and changing application. More that 500k+ Downloads.
 All works by writing were done by me at the beginning.
 
